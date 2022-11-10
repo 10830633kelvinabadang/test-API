@@ -1,0 +1,19 @@
+{
+    "IVAN" : {
+       " Full_name": "Ivan Susoa",
+        "age": 24,
+       " DOB": "20th  May,1995",
+        "Complextion": "fair",
+       " Marital_status": "single"
+      }, 
+    "Karen" : {
+       " occuptaion":"Software Engineer",
+       " Gender":"female",
+       " Marital_status":"single",
+       " Complextion":"chocolate"
+    },
+    "Denis":
+    {
+        "Height":"8'2"
+    }
+}
